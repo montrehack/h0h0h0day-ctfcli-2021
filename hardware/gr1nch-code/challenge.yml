@@ -8,14 +8,14 @@ description: |
     The elves attached an Arduino running a script (`arduino.ino`) to bypass the dipswitches.
     After hours of hacking, they were not able to find an algorithm to decode the message.
     Can you help the elves break the code and reveil Gr1nch's evil plan? 
-value: 1
+value: 100
 type: standard
 
 flags:
     - "1T5-4LW4Y5-M0R53-C0D3"
 
 tags:
-    - hardward
+    - hardware
     - steganography
 
 files:
