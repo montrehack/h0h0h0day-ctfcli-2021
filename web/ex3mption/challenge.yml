@@ -10,7 +10,7 @@ description: |
 
   This challenge was part of the CS Games 2020's appsec competition that never happened. Hope you'll enjoy!
 
-value: 4
+value: 400
 type: standard
 
 image: null
@@ -24,6 +24,7 @@ flags:
 tags:
     - web
     - js
+    - appsec
 
 hints:
     - Fragments can be use to make a cleaner payload.
