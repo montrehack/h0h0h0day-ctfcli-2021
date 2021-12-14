@@ -1,11 +1,11 @@
 name: "H0H0-0S"
 author: "alexandre-lavoie"
-category: steganography
+category: Steganography
 description: |
     H0H0-0S is main OS for Christmas in the North Pole.
     Over the weekend, Gr1nch got access to the server and encrypted the whole build.
     Can you help the elves to find the decryption key before Santa turns them into fairy dust?
-value: 1
+value: 100
 type: standard
 
 flags:
