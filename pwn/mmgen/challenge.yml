@@ -4,7 +4,7 @@
 # Required sections
 name: "mmgen"
 author: "klammydia"
-category: binary
+category: Binary
 description: |
   There are two flags. We want the second.
 
