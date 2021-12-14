@@ -4,7 +4,7 @@
 # Required sections
 name: "The Profiler - PCAP"
 author: "Res260 (Émilio Gonzalez)"
-category: Forensics/Baby Steganography
+category: Forensics
 description: This PCAP contains a 🚩FLAG🚩. Do you have the required profile to find it? 👀 Flag format FLAG-[0-9A-Z]+
 value: 100
 type: standard
@@ -55,6 +55,7 @@ topics:
 # Accepts strings
 tags:
     - PCAP
+    - steg
 
 # Provide paths to files from the same directory that this file is in
 # Accepts strings
