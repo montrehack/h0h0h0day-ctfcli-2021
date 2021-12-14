@@ -1,0 +1,11 @@
+version: "3"
+services:
+  opa:
+    image: openpolicyagent/opa:edge-rootless
+    volumes:
+      - ./opa:/policies
+    command: ["run", "--server", "/policies"]
+  app:
+    build: h0h0h0
+    ports:
+      - '3030:3030'
