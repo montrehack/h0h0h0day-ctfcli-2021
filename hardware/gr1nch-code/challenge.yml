@@ -1,6 +1,6 @@
 name: "Gr1nch's Code"
 author: "alexandre-lavoie"
-category: hardware
+category: Hardware
 description: |
     The Gr1nch uses a machine (`circuit.png`) to decode messages.
     This is a very tedious process of inputting the message chracters by characters on the dipswitches and decoding the LEDs.
