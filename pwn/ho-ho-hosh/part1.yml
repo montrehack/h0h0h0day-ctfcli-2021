@@ -1,0 +1,24 @@
+name: "Ho Ho Ho SH - Part 1"
+author: "Zuyoutoki"
+category: "misc"
+description: |
+  Last year, Santa tried to use a computer system to store his Good and Naughty list, but Dio the Mischievious Elf pulled a prank on him and all of the data was gone. To repent for the wrong he did last year, Dio had to find a new system that would be more secure. Did he succeed?
+
+  Explore the shell. You need to find how to login to the high privileges shell. Have fun and remember that bruteforce is not necessary.
+
+  * user: hohohosh
+  * pass: montrehack
+  * host: challenges.montrehack.ca
+  * port: 47422
+
+  ```shell
+  ssh hohohosh@challenges.montrehack.ca -p 47422
+  ```
+
+value: 1
+type: standard
+
+flags:
+  - h0h0h0day-mastermind_cookies_and_flags
+
+version: "0.1"

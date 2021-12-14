@@ -1,0 +1,6 @@
+version: "3"
+services:
+  hohohosh:
+    build: .
+    ports:
+      - "47422:47422"
