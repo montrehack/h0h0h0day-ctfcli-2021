@@ -1,9 +1,9 @@
 name: "h0h0hOPA"
 author: "gdenhez"
-category: web
+category: Web
 description: |
     A bad elf convinced Santa to put you in the naughty list! Hopefully, you will be able to access Santa's gift list and see what Santa was initially planning to send you...
-value: 1
+value: 100
 type: standard
 
 flags:
@@ -11,6 +11,7 @@ flags:
 
 tags:
     - web
+    - appsec
 
 version: "0.1"
 
