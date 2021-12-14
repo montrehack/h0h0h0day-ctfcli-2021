@@ -1,0 +1,22 @@
+name: "Christmas Log"
+author: "alxbl"
+category: web
+description: |
+    In the age of the internets, long gone are the days of mailing Santa your letter
+    via snail mail to wish for your gifts. Now you can fill this online form
+    and get your gifts delivered to your door by Santa's crew of 1-day shipping
+    elves.
+
+    http://ctf.segfault.me:8822/
+value: 1
+type: standard
+
+image: null
+
+flags:
+    - FLAG-1pAOJhsleNhYbqVmV7VelfHnPXCwFAUc
+
+tags:
+    - web
+
+version: "0.1"
