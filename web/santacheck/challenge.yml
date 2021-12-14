@@ -1,0 +1,16 @@
+name: "santacheck"
+author: "becoh0"
+category: web
+description: "Go to http://challenges.montrehack.ca:13251"
+value: 1
+type: standard
+
+flags:
+    - flag{ho-no--our-input-validation--its-broken}
+
+tags:
+    - web
+
+state: visible
+version: "0.1"
+image: .
