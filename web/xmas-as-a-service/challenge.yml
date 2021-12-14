@@ -10,7 +10,7 @@ connection_info: http://h0h0h0.monordibogue.com:3000
 flags:
   - FLAG-ROOT_AS_A_SERVICE
 
-topics:
+tags:
   - web
   - privesc
   - docker
