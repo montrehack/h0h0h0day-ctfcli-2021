@@ -1,8 +1,8 @@
 name: "Santa's aides"
 author: "Barberousse"
-category: binary
+category: Reverse-Engineering
 description: "Santa is very busy this time of year, but he's got all kinds of helpers. One of them might even give you a flag if you ask nicely enough."
-value: 1
+value: 100
 type: standard
 
 flags:
