@@ -1,0 +1,24 @@
+name: "H0H0-0S"
+author: "alexandre-lavoie"
+category: steganography
+description: |
+    H0H0-0S is main OS for Christmas in the North Pole.
+    Over the weekend, Gr1nch got access to the server and encrypted the whole build.
+    Can you help the elves to find the decryption key before Santa turns them into fairy dust?
+value: 1
+type: standard
+
+flags:
+    - "FLAG-{y0u_s4v3d_th3_313v35}"
+
+tags:
+    - steganography
+
+files:
+    - ./dist/H0H0-0S.zip
+
+hints:
+    - Esolang
+
+state: visible
+version: "0.1"
