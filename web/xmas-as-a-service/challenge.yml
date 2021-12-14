@@ -1,6 +1,6 @@
 name: "Xmas as a Service"
 author: "Vinnie#1488"
-category: "web2shell"
+category: "Web"
 description: Host your web gifts here temporarily, I'm sure nothing bad will happen ;)
 value: 200
 type: standard
@@ -15,5 +15,7 @@ topics:
   - privesc
   - docker
   - rce
+  - web2shell
+  - appsec
 
 version: "0.1"
