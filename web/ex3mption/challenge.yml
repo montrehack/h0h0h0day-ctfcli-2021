@@ -1,0 +1,33 @@
+name: "Ex3mption"
+author: "Sideni"
+category: Web
+description: |
+  *Français*
+
+  Ce défi fait partie de la compétition de sécurité applicative des CS Games 2020 qui n'a jamais eu lieu. En espérant que vous apprécierez!
+
+  *English*
+
+  This challenge was part of the CS Games 2020's appsec competition that never happened. Hope you'll enjoy!
+
+value: 4
+type: standard
+
+image: null
+host: null
+
+connection_info: http://sideni.xyz:8018/
+
+flags:
+    - FLAG-Chaque_detail_prend_de_la_valeur_quand_plus_rien_na_de_sens
+
+tags:
+    - web
+    - js
+
+hints:
+    - Fragments can be use to make a cleaner payload.
+
+state: visible
+
+version: "0.1"
