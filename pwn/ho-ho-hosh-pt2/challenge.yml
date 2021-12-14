@@ -1,6 +1,9 @@
 name: "Ho Ho Ho SH - Part 2"
 author: "Zuyoutoki"
 category: "misc"
+tags:
+  - sysadmin
+  - ssh
 description: |
   Last year, Santa tried to use a computer system to store his Good and Naughty list, but Dio the Mischievious Elf pulled a prank on him and all of the data was gone. To repent for the wrong he did last year, Dio had to find a new system that would be more secure. Did he succeed?
 
@@ -15,7 +18,7 @@ description: |
   ssh hohohosh@challenges.montrehack.ca -p 47422
   ```
 
-value: 1
+value: 100
 type: standard
 
 flags:
