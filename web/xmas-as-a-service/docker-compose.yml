@@ -1,0 +1,16 @@
+version: "3.0"
+
+services:
+  # please for the love of god do not kill me
+  app:
+    build: .
+    restart: unless-stopped
+    environment:
+      - CONTAINER_DURATION=600000
+      - MINIMUM_PORT=3001
+      - MAXIMUM_PORT=4001
+      - PORT=3000
+    ports:
+      - "3000:3000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock

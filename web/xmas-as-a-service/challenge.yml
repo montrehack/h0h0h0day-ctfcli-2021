@@ -1,0 +1,19 @@
+name: "Xmas as a Service"
+author: "Vinnie#1488"
+category: "web2shell"
+description: Host your web gifts here temporarily, I'm sure nothing bad will happen ;)
+value: 200
+type: standard
+
+connection_info: http://h0h0h0.monordibogue.com:3000
+
+flags:
+  - FLAG-ROOT_AS_A_SERVICE
+
+topics:
+  - web
+  - privesc
+  - docker
+  - rce
+
+version: "0.1"
