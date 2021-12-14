@@ -1,0 +1,19 @@
+name: "Santa's aides"
+author: "Barberousse"
+category: binary
+description: "Santa is very busy this time of year, but he's got all kinds of helpers. One of them might even give you a flag if you ask nicely enough."
+value: 1
+type: standard
+
+flags:
+  - "h0h0h0-Fvn=W1+#_|-|eX~3Nc0d!ng$"
+
+tags:
+  - reverse
+  - binary
+  - go
+
+files:
+  - bin/santas_aides
+
+version: "0.1"
