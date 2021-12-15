@@ -11,3 +11,7 @@ popd
 pushd pwn/ho-ho-hosh-infra/
 docker-compose up -d
 popd
+
+pushd web/the-loggers/
+docker-compose up -d
+popd

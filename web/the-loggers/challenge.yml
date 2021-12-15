@@ -17,10 +17,9 @@ hints:
     - https://github.com/alexandre-lavoie/python-log4rce
 
 files:
-    - ./build/libs/the-loggers-1.0.0.war
+    - src/main/java/qc/loggers/LoggerApp.java
 
-url:
-    - http://challenges.montrehack.ca:2080/super_safe_order_logging_system
+connection_info: http://challenges.montrehack.ca:2080/super_safe_order_logging_system
 
 state: visible
 version: "0.1"
