@@ -10,4 +10,5 @@ flags:
 # index.js source is given to the player, no guessing allowed
 files:
     - src/index.js
+connection_info: http://challenges.montrehack.ca:10008/
 version: "1.0"
