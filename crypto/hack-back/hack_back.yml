@@ -1,0 +1,25 @@
+challengename: "Hack Back"
+author: "nic-lovin, Sideni"
+category: Crypto
+description: |
+  *Français*
+
+  Ce défi fait partie de la compétition de sécurité applicative des CS Games 2020 qui n'a jamais eu lieu. En espérant que vous apprécierez!
+
+  *English*
+
+  This challenge was part of the CS Games 2020's appsec competition that never happened. Hope you'll enjoy!
+
+value: 4
+type: standard
+image: null
+host: null
+connection_info: http://sideni.xyz:8017/
+flags:
+    - FLAG-f5fc2de4a314a8d0d5b28d5f1d1fe393
+hints:
+    - In CBC, there's not only the IV that can be manipulated.
+files:
+    - index.php
+state: visible
+version: "0.1"
