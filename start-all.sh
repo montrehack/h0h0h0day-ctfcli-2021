@@ -15,3 +15,7 @@ popd
 pushd web/the-loggers/
 docker-compose up -d
 popd
+
+pushd web/swag/
+docker-compose up -d
+popd

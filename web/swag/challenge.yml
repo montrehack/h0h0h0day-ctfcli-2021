@@ -4,8 +4,9 @@
 # Required sections
 name: "Free Montrehack Swag"
 author: "axdoomer"
-category: web
+category: Web
 description: "Montrehack is giving out some cool swag!! Don't miss you chance to get a free tuque! Use promo code 'FREE-TUQUE' to get one free. Want more free tuques? You sure can delete your cookies, but can you order 10 at the *same* time??? (Flag is 'FLAG-' and a price tag)"
+connection_info: http://challenges.montrehack.ca:3080/
 value: 100
 type: standard
 
@@ -20,7 +21,7 @@ flags:
 
 tags:
     - web
-
+    - appsec
 
 # The state of the challenge.
 # If the field is omitted, the challenge is visible by default.
