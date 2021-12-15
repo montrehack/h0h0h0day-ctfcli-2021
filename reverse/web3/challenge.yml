@@ -2,7 +2,7 @@ name: "Web3 Encode"
 author: "svieg"
 category: Reverse-Engineering
 description: Simple encode binary compliant with web3 standards!
-value: 1
+value: 100
 type: standard
 flags:
   - FLAG-NeResistezPasAuFuturDuWeb!
