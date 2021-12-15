@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  web:
+    build: .
+    user: node
+    ports:
+      - 10008:8888

@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2",
+    "sqlite": "^4.0.23"
+  },
+  "name": "h0h0h0-js",
+  "version": "1.0.0",
+  "description": "Challenge for the h0h0h0 event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pourliver",
+  "license": "ISC"
+}

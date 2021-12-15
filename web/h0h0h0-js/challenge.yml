@@ -1,0 +1,13 @@
+name: "Santa's Naughty List"
+author: "Pourliver"
+category: Web
+description: We found a website allowing us to query Santa's Naughty List! Do you think you can access the Nice list from it? (No bruteforce / scanning required.)
+value: 100
+type: standard
+flags:
+    - FLAG-44B24BCE6FA092743101F29F59594329
+
+# index.js source is given to the player, no guessing allowed
+files:
+    - src/index.js
+version: "1.0"
