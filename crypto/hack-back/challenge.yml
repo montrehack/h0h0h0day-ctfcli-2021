@@ -1,6 +1,6 @@
-challengename: "Hack Back"
+name: "Hack Back"
 author: "nic-lovin, Sideni"
-category: Crypto
+category: Cryptography
 description: |
   *Français*
 
@@ -10,7 +10,7 @@ description: |
 
   This challenge was part of the CS Games 2020's appsec competition that never happened. Hope you'll enjoy!
 
-value: 4
+value: 400
 type: standard
 image: null
 host: null
