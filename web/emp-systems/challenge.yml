@@ -5,7 +5,7 @@ description: |
   Oopsy daisy! Looks like this webmaster does not handle login forms very well! Krampus will put coal in his stockings for Christmas!
 
   This challenge was part of the CS Games 2020's appsec competition that never happened. Hope you'll enjoy!
-value: 2
+value: 200
 type: standard
 image: null
 host: null
@@ -19,5 +19,6 @@ files:
 tags:
     - web
     - php
+    - appsec
 state: visible
 version: "0.1"
