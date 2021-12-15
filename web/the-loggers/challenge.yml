@@ -1,0 +1,26 @@
+name: "The Loggers"
+author: "alexandre-lavoie"
+category: appsec
+description: |
+    During the winter, Gérard and Robert Tremblay run a small log distribution business online. They use a custom solution from a few years back. 
+    This year, there seems to be alot of weird internal traffic coming from the system. Can you figure out the issue? 
+value: 1
+type: standard
+
+flags:
+    - "FLAG-{must_p4tch_cve-2021-44228}"
+
+tags:
+    - web
+
+hints:
+    - https://github.com/alexandre-lavoie/python-log4rce
+
+files:
+    - ./build/libs/the-loggers-1.0.0.war
+
+url:
+    - http://hostname:port/super_safe_order_logging_system
+
+state: visible
+version: "0.1"
