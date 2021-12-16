@@ -1,12 +1,12 @@
 # Required sections
 name: "Mic check.. 1, 2, 3, 5"
 author: "fob"
-category: reverse
+category: Reverse-Engineering
 description: |
     This Xmas, I have the greatest gift of all...
 
     **Server:** `nc challenges.montrehack.ca 3333`
-value: 2
+value: 200
 type: standard
 image: .
 

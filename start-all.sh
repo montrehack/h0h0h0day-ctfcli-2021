@@ -23,3 +23,7 @@ popd
 pushd web/h0h0h0-js/
 docker-compose up -d
 popd
+
+pushd reverse/mic-check/
+docker-compose up -d
+popd

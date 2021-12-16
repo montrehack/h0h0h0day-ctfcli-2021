@@ -3,4 +3,4 @@ services:
   alf:
     build: .
     ports:
-    - "7777:7777"
+    - "3333:7777"
