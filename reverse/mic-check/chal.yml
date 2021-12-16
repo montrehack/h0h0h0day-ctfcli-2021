@@ -1,0 +1,33 @@
+# Required sections
+name: "Mic check.. 1, 2, 3, 5"
+author: "fob"
+category: reverse
+description: |
+    This Xmas, I have the greatest gift of all...
+
+    **Server:** `nc challenges.montrehack.ca 3333`
+value: 2
+type: standard
+image: .
+
+
+flags:
+    - FLAG-eb374bff6da9e4e766f4ae98778f4ce7
+
+tags:
+    - reverse
+    - shell
+
+files: []
+
+hints:
+    - Did you think maths would never be useful again?
+
+
+# The state of the challenge.
+# This is visible by default. It takes two values: hidden, visible.
+state: visible
+
+# Specifies what version of the challenge specification was used.
+# Subject to change until ctfcli v1.0.0
+version: "0.1"
