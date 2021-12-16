@@ -1,0 +1,22 @@
+name: "Shredded Cat"
+author: "obilodeau"
+category: Forensics
+description: I found this in the shredder and zipped it. Can you make sense out of it?
+value: 100
+type: standard
+
+flags:
+    - FLAG-{BUSINESS-CAT-MEANS-BUSINESS}
+
+tags:
+    - PCAP
+    - PDU
+
+files:
+    - what-a-mess.zip
+
+hints:
+    - People at GoSecure sure love their RDP
+
+state: visible
+version: "0.1"
