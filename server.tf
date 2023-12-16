@@ -37,7 +37,8 @@ resource "null_resource" "run-ansible-challenge-server" {
     command = "ANSIBLE_HOST_KEY_CHECKING=False ansible-playbook -i ansible/terraform.py ansible/server.yml"
   }
   triggers = {
-    always = timestamp()
+    #always = timestamp()
+    always = "2021-12-15T23:24:40Z"
     revision = "1"
   }
 }

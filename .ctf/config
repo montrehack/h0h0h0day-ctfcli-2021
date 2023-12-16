@@ -1,0 +1,27 @@
+[config]
+url = https://h0h0h0day.montrehack.ca/
+access_token = fb191a7740ebc21c4c90fcb00deb320e5680ed84951c294d49f98e321f2f0899
+
+[challenges]
+steg/h0h0h0_l3t_m3_th1nk/ = steg/h0h0h0_l3t_m3_th1nk/
+web/christmas-log/ = web/christmas-log/
+pwn/mmgen/ = pwn/mmgen/
+hardware/gr1nch-code/ = hardware/gr1nch-code/
+steg/h0h0-0s/ = steg/h0h0-0s/
+web/santacheck/ = web/santacheck/
+web/ex3mption/ = web/ex3mption/
+web/h0h0hopa/ = web/h0h0hopa/
+reverse/santa-aides/ = reverse/santa-aides/
+forensics/TheProfiler/ = forensics/TheProfiler/
+web/xmas-as-a-service/ = web/xmas-as-a-service/
+pwn/ho-ho-hosh-pt1/ = pwn/ho-ho-hosh-pt1/
+pwn/ho-ho-hosh-pt2/ = pwn/ho-ho-hosh-pt2/
+web/the-loggers/ = web/the-loggers/
+web/swag/ = web/swag/
+web/h0h0h0-js/ = web/h0h0h0-js/
+web/emp-systems/ = web/emp-systems/
+crypto/hack-back/ = crypto/hack-back/
+reverse/web3/ = reverse/web3/
+forensics/shredded-cat/ = forensics/shredded-cat/
+reverse/mic-check/ = reverse/mic-check/
+
